@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="textView_padding">15dp</dimen>
+    <dimen name="layout_padding_cross">0.5dp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="sub_textView_size">12sp</dimen>
+    <dimen name="sub_textview_padding_top">2dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+</resources>
